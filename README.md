@@ -1,3 +1,3 @@
 # React NavBar
-1. встановити бібліотеки npm install react-icons , npm i @emotion/styled @emotion/react
-2. перекинути компоненти та додати лого
+1. Встановити бібліотеки npm install react-icons , npm i @emotion/styled @emotion/react
+2. Перекинути компоненти та додати лого
