@@ -6,7 +6,7 @@ import './index.css';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-   <BrowserRouter basename="/navBar">
+   <BrowserRouter basename="/navBar-react">
   <App />
 </BrowserRouter>
   </React.StrictMode>
